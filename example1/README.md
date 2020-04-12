@@ -20,3 +20,4 @@
    docker run -itd --name=flask --network=zeta flask:3.0 
 ```
 4. on portforwarding, the apis (add_word & autocomplete) can be accessed. 
+
